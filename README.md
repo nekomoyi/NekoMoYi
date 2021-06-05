@@ -11,3 +11,5 @@
   <a href="https://github.com/nekomoyi"><img src="https://badges.pufler.dev/visits/nekomoyi/nekomoyi?logo=GitHub&label=visits&color=success&logoColor=white&style=flat-square"/></a>
   <a href="https://github.com/nekomoyi/nekomoyi"><img src="https://img.shields.io/github/last-commit/nekomoyi/nekomoyi?label=profile%20updated&style=flat-square"></a>
 </p>
+
+<p align="center"><b>Usually use Gitee.</b></p>
