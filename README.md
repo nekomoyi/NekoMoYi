@@ -12,4 +12,4 @@
   <a href="https://github.com/nekomoyi/nekomoyi"><img src="https://img.shields.io/github/last-commit/nekomoyi/nekomoyi?label=profile%20updated&style=flat-square"></a>
 </p>
 
-<p align="center"><b>Usually use Gitee.</b></p>
+<p align="center"><b>Student.WIP.</b></p>
