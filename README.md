@@ -1,4 +1,4 @@
-## Hi 👋
+## Hi, I'm nekomoyi 👋
 
 - 📖 Undergraduate student, working in progress
 - 🚀 Passionate about full-stack development
@@ -9,12 +9,17 @@
 - 📍 Timezone: Asia/Shanghai (UTC+8)
 - 🎯 Currently seeking internships or remote work opportunities
 
-<p align="center">
-  <samp>
-    <a href="https://nekomoyi.com">me</a> .
-    <a href="https:/blog.nekomoyi.com">blog</a> .
-    <a href="https://bsky.app/profile/nekomoyi.com">bluesky</a>
-  </samp>
-</p>
+<samp>
+  <a href="https://nekomoyi.com">me</a> .
+  <a href="https:/blog.nekomoyi.com">blog</a> .
+  <a href="https://bsky.app/profile/nekomoyi.com">bluesky</a> .
+  <a href="mailto:funny_mo_yi@foxmail.com">mail</a>
+</samp>
+
+---
+
+<div align="center">
 
 ![](./github-metrics.svg)
+
+</div>
