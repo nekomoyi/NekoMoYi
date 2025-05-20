@@ -1,15 +1,20 @@
-<p align="center">
-  <a href="https://github.com/nekomoyi"><img src="https://img.shields.io/badge/-@nekomoyi-181717?style=flat-square&logo=github&logoColor=white"/></a>
-</p>
+## Hi 👋
+
+- 📖 Undergraduate student, working in progress
+- 🚀 Passionate about full-stack development
+- 💻 Skilled in JavaScript/TypeScript, Python, and Rust
+- 🌐 Comfortable with both Chinese and English
+- 🎮 Enthusiast of FPS games, ARPG games, and indie games
+- 🎵 Lover of anime and J-pop music
+- 📍 Timezone: Asia/Shanghai (UTC+8)
+- 🎯 Currently seeking internships or remote work opportunities
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nekomoyi&show_icons=true">
+  <samp>
+    <a href="https://nekomoyi.com">me</a> .
+    <a href="https:/blog.nekomoyi.com">blog</a> .
+    <a href="https://bsky.app/profile/nekomoyi.com">bluesky</a>
+  </samp>
 </p>
 
-<p align="center">
-  <a href="https://github.com/nekomoyi?tab=followers"><img src="https://img.shields.io/badge/--000000?style=flat-square&logo=RSS&logoColor=white"></a>
-  <a href="https://github.com/nekomoyi"><img src="https://badges.pufler.dev/visits/nekomoyi/nekomoyi?logo=GitHub&label=visits&color=success&logoColor=white&style=flat-square"/></a>
-  <a href="https://github.com/nekomoyi/nekomoyi"><img src="https://img.shields.io/github/last-commit/nekomoyi/nekomoyi?label=profile%20updated&style=flat-square"></a>
-</p>
-
-<p align="center"><b>Student.WIP.</b></p>
+![](./github-metrics.svg)
