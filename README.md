@@ -11,7 +11,7 @@
 
 <samp>
   <a href="https://nekomoyi.com">me</a> .
-  <a href="https:/blog.nekomoyi.com">blog</a> .
+  <a href="https://blog.nekomoyi.com">blog</a> .
   <a href="https://bsky.app/profile/nekomoyi.com">bluesky</a> .
   <a href="mailto:funny_mo_yi@foxmail.com">mail</a>
 </samp>
