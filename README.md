@@ -7,7 +7,7 @@
 - 🎮 Enthusiast of FPS games, ARPG games, and indie games
 - 🎵 Lover of anime and J-pop music
 - 📍 Timezone: Asia/Shanghai (UTC+8)
-- 🎯 Currently interning at ByteDance
+- 🎯 Currently seeking on-site or remote work opportunities
 
 <samp>
   <a href="https://nekomoyi.com">me</a> .
