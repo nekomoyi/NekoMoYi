@@ -1,4 +1,4 @@
-## Hi, I'm nekomoyi 👋
+# Hi, I'm nekomoyi 👋
 
 - 📖 Undergraduate student, working in progress
 - 🚀 Passionate about full-stack development
@@ -15,11 +15,3 @@
   <a href="https://bsky.app/profile/nekomoyi.com">bluesky</a> .
   <a href="mailto:funny_mo_yi@foxmail.com">mail</a>
 </samp>
-
----
-
-<div align="center">
-
-![](./github-metrics.svg)
-
-</div>
